@@ -11,10 +11,10 @@ Learn about making smart choices with your credit utilization, built on Node wit
 > Credit utilization is generally calculated based on your total outstanding balances compared with your total credit limit across all of your cards, but some scoring models also penalize you for exceeding 30% utilization on any one card. Make it a rule to keep your balance below 30% on all of your cards at all times to kill two birds with one stone.
 
 ## Features
-- Add, view, and Remove expenses from your list
-- Get helpful advice based on your DTI score
-- Calculate DTI based on your gross monthly income and expenses
-- Easy to use UI
+- Add, view, and Remove credit cards from your list
+- Get helpful advice based on your utilization score
+- Individual card utilization is also calculated when a new card is added
+- Easy to use UI with progress bar to show your utilization percentage
 - Responsive
 
 ## License
