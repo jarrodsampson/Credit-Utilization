@@ -1,4 +1,4 @@
-# Credit-Utilization
+# Credit Utilization
 Helping you better understand your credit. Built with ReactJS and MaterializeCSS. Designed by [planlodge](http://planlodge.com).
 
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
