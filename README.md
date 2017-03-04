@@ -1,5 +1,5 @@
 # Credit Utilization
-earn about making smart choices with your credit utilization, built on Node with React and Foundation 6. Designed by [planlodge](http://planlodge.com).
+Learn about making smart choices with your credit utilization, built on Node with React and Foundation 6. Designed by [planlodge](http://planlodge.com).
 
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
 ![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
@@ -8,7 +8,7 @@ earn about making smart choices with your credit utilization, built on Node with
 
 ## Description
 
-> Your debt-to-income ratio (DTI) compares how much you owe each month to how much you earn. Specifically, it’s the percentage of your gross monthly income (income before taxes) that goes towards payments.
+> Credit utilization is generally calculated based on your total outstanding balances compared with your total credit limit across all of your cards, but some scoring models also penalize you for exceeding 30% utilization on any one card. Make it a rule to keep your balance below 30% on all of your cards at all times to kill two birds with one stone.
 
 ## Features
 - Add, view, and Remove expenses from your list
