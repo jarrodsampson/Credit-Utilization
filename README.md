@@ -1,5 +1,5 @@
 # Credit Utilization
-Helping you better understand your credit. Built with ReactJS and MaterializeCSS. Designed by [planlodge](http://planlodge.com).
+earn about making smart choices with your credit utilization, built on Node with React and Foundation 6. Designed by [planlodge](http://planlodge.com).
 
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
 ![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
